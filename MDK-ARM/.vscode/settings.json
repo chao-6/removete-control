@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "compare": "cpp",
+        "main.h": "c",
+        "string.h": "c",
+        "usart.h": "c",
+        "dma.h": "c",
+        "key.h": "c"
+    }
+}
